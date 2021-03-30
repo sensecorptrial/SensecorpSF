@@ -107,6 +107,11 @@
             <sortOrder>5</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>Share</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>6</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>Submit</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>7</sortOrder>
@@ -125,11 +130,6 @@
             <actionName>Delete</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>10</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>Share</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>6</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>Clone</actionName>
